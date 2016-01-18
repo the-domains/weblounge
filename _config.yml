@@ -1,7 +1,7 @@
 name: weblounge
 favicon: null
-layout_spectrum: 0.7252240041270852
-typography_spectrum: 0.9441659855656326
+layout_spectrum: 1
+typography_spectrum: 0.51915
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.706902256468311
+    - '#ebc232'
+    - '#ffffff'
+    - '#000000'
+    - '#48474d'
+    - '#afadb2'
+  brandStrength: 0.75
   lightness: 0.33587506343610585
   saturation: 0.3889309260994196
   rhythmicContrast: 0.756006094859913
